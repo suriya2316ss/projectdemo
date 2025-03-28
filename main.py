@@ -1,1 +1,2 @@
-print("i am learning git.")
+def say_hello():
+    return "Hello worlds"

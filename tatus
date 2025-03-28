@@ -1,0 +1,29 @@
+[33mcommit af41b053db20f5a54ba3c7198f53cb6bd658e936[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtemp[m[33m, [m[1;31morigin/temp[m[33m)[m
+Author: suriya2316ss <suriya2311ss@gmail.com>
+Date:   Fri Mar 28 08:40:06 2025 +0530
+
+    Changed hello funciton
+
+[33mcommit 020ab968847bfb513c2496e4e1363ae165261e22[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: suriya2316ss <suriya2311ss@gmail.com>
+Date:   Fri Mar 28 08:28:27 2025 +0530
+
+    readme
+
+[33mcommit d4c42cb789929246061e1de5cdfe40d98bfaaa74[m
+Author: suriya2316ss <suriya2311ss@gmail.com>
+Date:   Thu Mar 27 21:46:07 2025 +0530
+
+    readme
+
+[33mcommit 6ff38632358e4c6c3016d3d780f61c1ec2ff7a10[m
+Author: suriya2316ss <suriya2311ss@gmail.com>
+Date:   Thu Mar 27 19:37:44 2025 +0530
+
+    changed print to return to say_hello
+
+[33mcommit 70ddf5c53bea763ccef80ccf445c5b844b119acf[m
+Author: suriya2316ss <suriya2311ss@gmail.com>
+Date:   Thu Mar 27 19:35:44 2025 +0530
+
+    Added say_hello function
